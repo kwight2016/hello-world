@@ -1,2 +1,6 @@
 # hello-world
-project 1
+
+Hi Humans!
+
+Kristin here, this is my first project. 
+First commit change.
